@@ -3,9 +3,10 @@
   padding: 0;
   display: flex;
   list-style: none;
+  flex-wrap: wrap;
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 610px) {
   .footer__links {
     display: grid;
     gap: 32px;

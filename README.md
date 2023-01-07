@@ -16,6 +16,9 @@
 ### Планы по совершенствованию 
  - отсутствуют
 
+### Ссылка на выложенный проект
+[https://eka123eka.github.io/russian-travel-eka/](https://eka123eka.github.io/russian-travel-eka/) 
+
 
 
 
