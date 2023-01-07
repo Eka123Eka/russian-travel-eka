@@ -1,0 +1,24 @@
+.place__url-heading {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  color: #AAAAAA;
+  text-transform: uppercase;
+}
+.place__url-heading:first-of-type {
+  line-height: 12px;
+}
+
+@media screen and (max-width: 800px) {
+  .place__url-heading:not(:first-of-type){
+    line-height: 12px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .place__url-heading:not(:first-of-type){
+    line-height: 12px;
+  }
+}
