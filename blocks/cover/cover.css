@@ -5,7 +5,7 @@
   padding: 0  48px;
 }
 
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 1054px){
   .cover {
     max-width: 1024px;
     max-height: 640px;
@@ -14,7 +14,7 @@
   }
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 797px){
   .cover {
     max-width: 768px;
     max-height: 480px;
@@ -22,7 +22,7 @@
   }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 350px){
   .cover {
     max-width: 320px;
     max-height: 200px;

@@ -3,4 +3,23 @@
   display: flex;
   align-items: center;
   flex-direction: column;
+  margin: 245px 312px;
+}
+
+@media screen and (max-width: 1054px){
+  .cover__overlay {
+    margin: 195px 232px;
+  }
+}
+
+@media screen and (max-width: 797px){
+  .cover__overlay {
+    margin: 115px 104px;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .cover__overlay {
+    margin: 33px 16px;
+  }
 }
